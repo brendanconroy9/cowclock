@@ -1,0 +1,2 @@
+# cowclock
+bash cow clock.
